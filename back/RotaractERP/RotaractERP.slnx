@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RotaractERP.Api/RotaractERP.Api.csproj" />
+  <Project Path="RotaractERP.Domain/RotaractERP.Domain.csproj" Id="c7f3022e-1d89-4a33-a520-4dbbbe3edd07" />
+  <Project Path="RotaractERP.Infrastructure/RotaractERP.Infrastructure.csproj" Id="d44348b0-14ef-416b-b572-141b743962bc" />
+</Solution>

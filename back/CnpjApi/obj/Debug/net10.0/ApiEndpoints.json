@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CnpjApi.Controllers.CnpjController",
+    "Method": "Teste",
+    "RelativePath": "cnpj/validate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cnpj",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
