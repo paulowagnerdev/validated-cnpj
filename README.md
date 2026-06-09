@@ -13,8 +13,7 @@ Projeto desenvolvido para validar CNPJs alfanuméricos conforme as novas regras 
 
 ## Funcionalidades
 
-- Validação de CNPJ alfanumérico
-- Geração de CNPJ alfanumérico
+- Validação de CNPJ alfanumérico com novas regras da SEFAZ
 - API REST
 - Interface Web
 
