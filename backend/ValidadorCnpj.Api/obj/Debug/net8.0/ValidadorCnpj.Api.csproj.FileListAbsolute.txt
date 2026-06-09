@@ -1,0 +1,78 @@
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\appsettings.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.staticwebassets.endpoints.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.exe
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.deps.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.runtimeconfig.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.pdb
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.csproj.AssemblyReference.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.AssemblyInfoInputs.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.AssemblyInfo.cs
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.sourcelink.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\scopedcss\bundle\ValidadorCnpj.Api.styles.css
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\swae.build.ex.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\Validado.EC3C21DC.Up2Date
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\refint\ValidadorCnpj.Api.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.pdb
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.genruntimeconfig.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ref\ValidadorCnpj.Api.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Application.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Application.pdb
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\appsettings.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.staticwebassets.endpoints.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.exe
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.deps.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.runtimeconfig.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Api.pdb
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Application.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\bin\Debug\net8.0\ValidadorCnpj.Application.pdb
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.csproj.AssemblyReference.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.AssemblyInfoInputs.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.AssemblyInfo.cs
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.csproj.CoreCompileInputs.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.sourcelink.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\scopedcss\bundle\ValidadorCnpj.Api.styles.css
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\swae.build.ex.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\Validado.EC3C21DC.Up2Date
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\refint\ValidadorCnpj.Api.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.pdb
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ValidadorCnpj.Api.genruntimeconfig.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Api\obj\Debug\net8.0\ref\ValidadorCnpj.Api.dll

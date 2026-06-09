@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ValidadorCnpj.Api.Controllers.CnpjController",
+    "Method": "Validar",
+    "RelativePath": "api/Cnpj/validar/{cnpj}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cnpj",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ValidadorCnpj.Application.Models.CnpjResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

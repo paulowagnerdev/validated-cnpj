@@ -1,0 +1,24 @@
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\bin\Debug\net8.0\ValidadorCnpj.Application.deps.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\bin\Debug\net8.0\ValidadorCnpj.Application.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\bin\Debug\net8.0\ValidadorCnpj.Application.pdb
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.AssemblyInfoInputs.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.AssemblyInfo.cs
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.csproj.CoreCompileInputs.cache
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.sourcelink.json
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\refint\ValidadorCnpj.Application.dll
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.pdb
+C:\Dev\C#\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ref\ValidadorCnpj.Application.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\bin\Debug\net8.0\ValidadorCnpj.Application.deps.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\bin\Debug\net8.0\ValidadorCnpj.Application.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\bin\Debug\net8.0\ValidadorCnpj.Application.pdb
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.AssemblyInfoInputs.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.AssemblyInfo.cs
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.csproj.CoreCompileInputs.cache
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.sourcelink.json
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\refint\ValidadorCnpj.Application.dll
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ValidadorCnpj.Application.pdb
+C:\Dev\C Sharp\Validate_CNPJ\backend\ValidadorCnpj.Domain\obj\Debug\net8.0\ref\ValidadorCnpj.Application.dll

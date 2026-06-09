@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="ValidadorCnpj.Api/ValidadorCnpj.Api.csproj" Id="a4344c59-8d6b-4fff-9b7b-2c9909a902c2" />
+    <Project Path="ValidadorCnpj.Domain/ValidadorCnpj.Application.csproj" Id="4b87b4f0-ac9e-46ad-b668-c2df0fb0cfc0" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@ValidadorCnpj.Api_HostAddress = http://localhost:5124
+
+GET {{ValidadorCnpj.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
