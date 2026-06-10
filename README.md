@@ -17,10 +17,72 @@ Projeto desenvolvido para validar CNPJs alfanuméricos conforme as novas regras 
 - API REST
 - Interface Web
 
-## Como executar
+## Como Executar o Projeto
 
-Frontend:
-...
+### Clonar o repositório
 
-Backend:
-...
+```bash
+git clone https://github.com/paulowagnerdev/validated-cnpj.git
+```
+
+### Executar a API
+
+Acesse a pasta da API:
+
+```bash
+cd backend/ValidadorCnpj.Api
+```
+
+Restaure os pacotes:
+
+```bash
+dotnet restore
+```
+
+Execute a aplicação:
+
+```bash
+dotnet run
+```
+
+### Executar o Front-end
+
+Em outro terminal, acesse a pasta do front-end:
+
+```bash
+cd frontend
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute a aplicação:
+
+```bash
+npm run dev
+```
+
+A aplicação estará disponível em:
+
+```text
+http://localhost:5173
+```
+
+## Estrutura do Projeto
+
+```text
+backend/
+├── ValidadorCnpj.Api
+├── ValidadorCnpj.Service
+
+frontend/
+├── src
+├── public
+```
+
+## Autor
+
+Paulo Wagner
